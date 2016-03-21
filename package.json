@@ -1,0 +1,19 @@
+{
+  "name": "long-term-cache",
+  "version": "1.0.0",
+  "description": "Read an HTML file and Long-Term-Cache all the assets.",
+  "main": "lib/ltc.js",
+  "bin": {
+    "ltc": "./bin/ltc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+      "long",
+      "term",
+      "cache"
+  ],
+  "author": "Grayfox",
+  "license": "MIT"
+}

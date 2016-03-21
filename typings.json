@@ -1,0 +1,8 @@
+{
+  "name": "long-term-cache",
+  "version": false,
+  "dependencies": {},
+  "ambientDependencies": {
+    "node": "registry:dt/node#4.0.0+20160319033040"
+  }
+}
